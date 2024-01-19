@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My First Blog",
+      "body": "A short story is a piece of prose fiction that can typically be read in a single sitting and focuses on a self-contained incident or series of linked incidents, with the intent of evoking a single effect or mood. The short story is one of the oldest types of literature and has existed in the form of legends, mythic tales, folk tales, fairy tales, tall tales, fables and anecdotes in various ancient communities around the world. The modern short story developed in the early 19th century.\nThe short story is one of the oldest types of literature and has existed in the form of legends, mythic tales, folk tales, fairy tales, tall tales, fables and anecdotes in various ancient communities around the world. The modern short story developed",
+      "author": "Atmaram Kambli"
+    },
+    {
+      "id": 2,
+      "title": "Digital Story",
+      "body": "he most important characteristics of a digital story are that it no longer conforms to the traditional conventions of storytelling because it is capable of combining still imagery, moving imagery, sound, and text, as well as being nonlinear and contain interactive features. The expressive capabilities of technology offers a broad base from which to integrate. It enhances the experience for both the author and audience and allows for greater interactivity.",
+      "author": "Mario Mustarfa"
+    },
+    {
+      "id": 3,
+      "title": "Money Heist",
+      "body": "Set in Madrid, a mysterious man known as the Professor recruits a group of eight people, who choose city names as their aliases, to carry out an ambitious plan that involves entering the Royal Mint of Spain, and escaping with €984 million. After taking 67 people hostage inside the Mint, the team plans to remain inside for 11 days to print the money as they deal with elite police forces. In the events following the initial heist, the group's members are forced out of hiding and prepare for a second heist, with some additional members, this time aiming to escape with gold from the Bank of Spain, as they again deal with hostages and police forces.",
+      "author": "Professor"
+    },
+    {
+      "title": "Welcome 2024",
+      "body": "Hey Great Greet to You from my side. You survived another year.",
+      "author": "John Doe",
+      "id": 4
+    },
+    {
+      "title": "Bye Bye 2023",
+      "body": "A year remember for its variability",
+      "author": "Jane Doe",
+      "id": 5
+    },
+    {
+      "title": "Market Crash",
+      "body": "The huge fall is seen in the stock market on Wednesday, dated - 17/01/2024. The investor and researcher are telling market is crashed mainly due to the foreign investor has taken their steps back from the investment.\nThe main reason for this is the growth rate of the HDFC, which falls back to the 30% compared to 36% from the last year.\nLorem espum is the kind characterm otherwise we need to wake up the Harshad Mehta, the real hero. The Gandhi has also needed to give treat of the special meal after the successful partition of the America and Asia. The award is granted to Mr. Leible for their incredible performance in the field of the engineering.  ",
+      "author": "Jane Doe",
+      "id": 6
+    }
+  ]
+}
