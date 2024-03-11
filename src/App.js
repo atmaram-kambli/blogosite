@@ -7,7 +7,7 @@ import NotFound from './components/NotFound';
 
 
 function App() {
-  return (
+  return ( 
     <Router>
       <div className="App">
       <Navbar />

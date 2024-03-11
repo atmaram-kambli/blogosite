@@ -5,7 +5,7 @@ import Loader from './Loader';
 
 function BlogDetails() {
 
-    const { id } = useParams();
+    const { id } = useParams(); 
     const { data:blog, isPending, error } = useFetch(`http://localhost:8000/blogs/${id}`)
     const navigate = useNavigate();
 
@@ -13,7 +13,7 @@ function BlogDetails() {
         fetch(`http://localhost:8000/blogs/${blog.id}`, {
             method: "DELETE",
         }).then(() => {
-            // navigate('/');
+            navigate('/');
         })
     }
 
